@@ -1,0 +1,26 @@
+name: dKitPvP
+main: me.dodocarlos.kitpvp.Main
+version: 0.1
+author: DodoCarlos
+commands:
+  setspawn:
+  kit:
+  resetkit:
+  build:
+  tag:
+  addspawnlocation:
+  fps:
+  mdr:
+  rdm:
+  1v1:
+  lava:
+  set:
+  report:
+  setfeastlocation:
+  spawn:
+  admin:
+  mlg:
+  refil:
+  unban:
+  ban:
+  skit:

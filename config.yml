@@ -1,0 +1,35 @@
+#Tag das mensagens
+Tag: "&f{&6&lServer&f} "
+
+#Cores das mensagens(InfoColor = Cores de informacoes | DefaultColor = Cor geral das mensagens)
+InfoColor: "&6&l"
+DefaultColor: "&f"
+
+#Mensagem do motd
+Motd: "&c&lEntre e venha tirar um pvp :)"
+
+#Titulo da scoreboard
+ScoreTitle: "&6&lKit PvP"
+
+#ScoreBoard ($kit = kit do player | $kills = kills do player | $deaths = mortes do player | $xp = xp do player | $kd = kd do player)
+ScoreBoard:
+  - "&6&lKit: &f%kit%"
+  - "&f"
+  - "&6&lKills: &f%kills%"
+  - "&f&f"
+  - "&6&lDeaths: &f%deaths%"
+  - "&f&f&f"
+  - "&6&lKD: &f%kd%"
+  - "&f&f&f&f"
+  - "&6&lXP: &f%xp%"
+  
+#Locais de spawn com kit
+SpawnLocations:
+
+#Dados de conexao ao MySQL
+MySQL:
+  host: localhost
+  db: kitpvp
+  user: root
+  pass: usbw
+  
